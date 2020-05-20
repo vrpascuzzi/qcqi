@@ -4,4 +4,6 @@
 
 # Build instructions
 Execute the same command twice to ensure hyperlinks and references work:
+```
 $ pdflatex qc_agi.tex ; pdflatex qc_agi.tex
+```
